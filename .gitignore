@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Assignment/material/Russia_matryoshka/1_DefaultMaterial_BaseColor.uasset
+Content/Assignment/material/Russia_matryoshka/Material__2.uasset
+Content/Assignment/material/Russia_matryoshka/Material__3.uasset
+Content/Assignment/material/Russia_matryoshka/Material__41.uasset
+Content/Assignment/material/Russia_matryoshka/Material__42.uasset
+Content/Assignment/meshes/ExternalAssts/Russia_matryoshka/matrewka.uasset
+Content/Assignment/meshes/ExternalAssts/Russia_matryoshka/matrewka_up_Skeleton.uasset
+Content/Assignment/meshes/ExternalAssts/Russia_matryoshka/matrewka_up_PhysicsAsset.uasset
+Content/Assignment/meshes/ExternalAssts/Russia_matryoshka/matrewka_down_Skeleton.uasset
+Content/Assignment/meshes/ExternalAssts/Russia_matryoshka/matrewka_down_PhysicsAsset.uasset
